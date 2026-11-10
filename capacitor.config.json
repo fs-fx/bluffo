@@ -1,0 +1,14 @@
+{
+  "appId": "com.fsfx.bluffo",
+  "appName": "Bluffo",
+  "webDir": "www",
+  "backgroundColor": "#080504",
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#080504",
+    "scrollEnabled": false
+  },
+  "android": {
+    "backgroundColor": "#080504"
+  }
+}
